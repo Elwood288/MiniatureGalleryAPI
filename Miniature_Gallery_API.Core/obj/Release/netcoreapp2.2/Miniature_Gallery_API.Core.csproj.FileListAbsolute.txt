@@ -1,0 +1,9 @@
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\bin\Release\netcoreapp2.2\Miniature_Gallery_API.Core.deps.json
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\bin\Release\netcoreapp2.2\Miniature_Gallery_API.Core.dll
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\bin\Release\netcoreapp2.2\Miniature_Gallery_API.Core.pdb
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.csprojAssemblyReference.cache
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.AssemblyInfoInputs.cache
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.AssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.dll
+C:\Users\John\Documents\DevFolder\Miniature Gallery API\Miniature_Gallery_API.Core\obj\Release\netcoreapp2.2\Miniature_Gallery_API.Core.pdb

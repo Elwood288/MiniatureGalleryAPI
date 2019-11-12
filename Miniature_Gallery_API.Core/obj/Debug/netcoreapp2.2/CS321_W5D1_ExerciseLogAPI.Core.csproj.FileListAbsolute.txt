@@ -1,0 +1,9 @@
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.deps.json
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.dll
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.pdb
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.csprojAssemblyReference.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.AssemblyInfoInputs.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.AssemblyInfo.cs
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.dll
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.pdb

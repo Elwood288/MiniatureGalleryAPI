@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI\\CS321_W5D1_ExerciseLogAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj",
+        "projectName": "CS321_W5D1_ExerciseLogAPI.Core",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj",
+        "projectName": "CS321_W5D1_ExerciseLogAPI.Infrastructure",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI\\CS321_W5D1_ExerciseLogAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI\\CS321_W5D1_ExerciseLogAPI.csproj",
+        "projectName": "CS321_W5D1_ExerciseLogAPI",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI\\CS321_W5D1_ExerciseLogAPI.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Core\\CS321_W5D1_ExerciseLogAPI.Core.csproj"
+              },
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\CS321_W5D1_ExerciseLogAPI.Infrastructure\\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

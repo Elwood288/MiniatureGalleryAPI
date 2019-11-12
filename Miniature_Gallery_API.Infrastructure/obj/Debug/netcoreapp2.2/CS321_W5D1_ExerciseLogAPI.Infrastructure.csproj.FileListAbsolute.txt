@@ -1,0 +1,14 @@
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.deps.json
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.runtimeconfig.json
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.runtimeconfig.dev.json
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.dll
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.pdb
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.dll
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Core.pdb
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.csproj.CopyComplete
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.dll
+C:\Users\John\documents\DevFolder\CS321_W5D1_ExerciseLogAPI\CS321_W5D1_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\CS321_W5D1_ExerciseLogAPI.Infrastructure.pdb

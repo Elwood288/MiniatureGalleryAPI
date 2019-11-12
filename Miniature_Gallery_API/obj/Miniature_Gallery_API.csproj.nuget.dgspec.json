@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API\\Miniature_Gallery_API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj",
+        "projectName": "Miniature_Gallery_API.Core",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\Miniature_Gallery_API.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\Miniature_Gallery_API.Infrastructure.csproj",
+        "projectName": "Miniature_Gallery_API.Infrastructure",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\Miniature_Gallery_API.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API\\Miniature_Gallery_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API\\Miniature_Gallery_API.csproj",
+        "projectName": "Miniature_Gallery_API",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API\\Miniature_Gallery_API.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Core\\Miniature_Gallery_API.Core.csproj"
+              },
+              "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\Miniature_Gallery_API.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\Miniature Gallery API\\Miniature_Gallery_API.Infrastructure\\Miniature_Gallery_API.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
