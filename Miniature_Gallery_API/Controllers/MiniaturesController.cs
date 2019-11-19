@@ -7,6 +7,7 @@ using Miniature_Gallery_API.ApiModels;
 using Miniature_Gallery_API.Core.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -15,7 +16,7 @@ namespace Miniature_Gallery_API.Controllers
     // TODO: Prep Part 2: Add authorization
     //[Authorize]
     [Route("api/[controller]")]
-   
+    [EnableCors("AllowOrigin")]
     public class MiniaturesController : Controller
     {
         private IMiniatureService _miniatureService;
@@ -91,12 +92,14 @@ namespace Miniature_Gallery_API.Controllers
         // create a new miniature
         // POST api/miniatures
         [HttpPost]
-        public IActionResult Post([FromBody] MiniatureModel miniatureModel)
+        public IActionResult Post( MiniatureModel miniatureModel)
         {
             try
             {
                 // add the new miniature
                 _miniatureService.Add(miniatureModel.ToDomainModel());
+
+
             }
             catch (System.Exception ex)
             {

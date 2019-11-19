@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CS321_W4D2_ExerciseLogAPI": {
+    "Miniature_Gallery_API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/miniatures",

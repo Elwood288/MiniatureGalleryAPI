@@ -27,6 +27,15 @@ namespace Miniature_Gallery_API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowOrigin",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<AppDbContext>();
 
             // Use SQL Database if in Azure, otherwise, use SQLite
@@ -90,7 +99,7 @@ namespace Miniature_Gallery_API
             }
 
             app.UseHttpsRedirection();
-
+            app.UseCors("AllowOrigin");
             app.UseAuthentication();
             app.UseMvc();
 

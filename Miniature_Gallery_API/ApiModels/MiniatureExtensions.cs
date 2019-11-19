@@ -15,7 +15,7 @@ namespace Miniature_Gallery_API.ApiModels
                 Id = miniature.Id,
                 Name = miniature.Name,
                 Game = miniature.Game,
-                Keywords = miniature.Keywords.Select(a => a.Name).ToArray()
+                Keywords = miniature.Keywords?.Select(a => a.Name).ToArray()
                 
 
             };

@@ -50,9 +50,11 @@ namespace Miniature_Gallery_API.Infrastructure.Data
                 new Miniature { Id = 1, Name = "Testy McGee", Game = "Heroscape" }
             );
 
-            //builder.Entity<Keyword>().HasData(
-            //  new { Id = 1, Name = "human", MiniatureId = 1 }
-           //);
+            builder.Entity<Keyword>().HasData(
+              new { Id = 1, Name = "human", MiniatureId = 1 }
+           );
+
+           
 
         }
     }

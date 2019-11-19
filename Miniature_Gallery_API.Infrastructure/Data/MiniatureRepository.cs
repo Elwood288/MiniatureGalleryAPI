@@ -35,7 +35,7 @@ namespace Miniature_Gallery_API.Infrastructure.Data
 
         public IEnumerable<Miniature> GetAll()
         {
-            return _dbContext.Miniatures;
+            return _dbContext.Miniatures.Include(a => a.Keywords);
                 
         }
 
