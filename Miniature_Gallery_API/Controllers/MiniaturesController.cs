@@ -92,10 +92,12 @@ namespace Miniature_Gallery_API.Controllers
         // create a new miniature
         // POST api/miniatures
         [HttpPost]
-        public IActionResult Post( MiniatureModel miniatureModel)
+        public IActionResult Post([FromBody] MiniatureModel miniatureModel)
         {
             try
             {
+                var newId = _miniatureService.GetAll().Max(x => x.Id) + 1;
+                miniatureModel.Id = newId;
                 // add the new miniature
                 _miniatureService.Add(miniatureModel.ToDomainModel());
 

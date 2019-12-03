@@ -26,8 +26,6 @@ namespace Miniature_Gallery_API.Infrastructure.Data
         public Miniature Get(int id)
         {
             return _dbContext.Miniatures
-                .Include(a => a.Game)
-                .Include(a => a.Name)
                 .Include(a => a.Keywords)
                 .SingleOrDefault(b => b.Id == id);
 

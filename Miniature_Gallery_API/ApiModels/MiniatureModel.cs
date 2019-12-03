@@ -1,6 +1,7 @@
 ﻿using Miniature_Gallery_API.Core.Models;
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Miniature_Gallery_API.ApiModels
 {
@@ -12,6 +13,7 @@ namespace Miniature_Gallery_API.ApiModels
         [Required]
         public string Game { get; set; }
         [Required]
+        [ForeignKey("MiniatureId")]
         public string[] Keywords { get; set; }
     }
 }
